@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Bincom ContactSessionAssignment1\bin\Debug\net8.0\BincomContactSessionAssignment1.exe
+C:\Users\User\source\repos\Bincom ContactSessionAssignment1\bin\Debug\net8.0\BincomContactSessionAssignment1.deps.json
+C:\Users\User\source\repos\Bincom ContactSessionAssignment1\bin\Debug\net8.0\BincomContactSessionAssignment1.runtimeconfig.json
+C:\Users\User\source\repos\Bincom ContactSessionAssignment1\bin\Debug\net8.0\BincomContactSessionAssignment1.dll
+C:\Users\User\source\repos\Bincom ContactSessionAssignment1\bin\Debug\net8.0\BincomContactSessionAssignment1.pdb
+C:\Users\User\source\repos\Bincom ContactSessionAssignment1\obj\Debug\net8.0\BincomContactSessionAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Bincom ContactSessionAssignment1\obj\Debug\net8.0\BincomContactSessionAssignment1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Bincom ContactSessionAssignment1\obj\Debug\net8.0\BincomContactSessionAssignment1.AssemblyInfo.cs
+C:\Users\User\source\repos\Bincom ContactSessionAssignment1\obj\Debug\net8.0\BincomContactSessionAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Bincom ContactSessionAssignment1\obj\Debug\net8.0\BincomContactSessionAssignment1.sourcelink.json
+C:\Users\User\source\repos\Bincom ContactSessionAssignment1\obj\Debug\net8.0\BincomContactSessionAssignment1.dll
+C:\Users\User\source\repos\Bincom ContactSessionAssignment1\obj\Debug\net8.0\refint\BincomContactSessionAssignment1.dll
+C:\Users\User\source\repos\Bincom ContactSessionAssignment1\obj\Debug\net8.0\BincomContactSessionAssignment1.pdb
+C:\Users\User\source\repos\Bincom ContactSessionAssignment1\obj\Debug\net8.0\BincomContactSessionAssignment1.genruntimeconfig.cache
+C:\Users\User\source\repos\Bincom ContactSessionAssignment1\obj\Debug\net8.0\ref\BincomContactSessionAssignment1.dll
